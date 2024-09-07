@@ -10,5 +10,3 @@
 📫 Contact:  
 [LinkedIn](http://linkedin.com/in/ragul-raj-e) | [Email](ragule2403@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
