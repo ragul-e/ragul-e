@@ -3,7 +3,6 @@
 💻 Automation Test Engineer | 🚀 Tech Enthusiast |
 
 - 🔭 I’m currently working at  [wipro]
-- 🌱 Learning about virtual agents deveopment
 - 🛠 Technologies I work with: Java, selenium, Rest Assured and TestNG
   
 
