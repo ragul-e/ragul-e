@@ -2,7 +2,7 @@
 
 💻 Automation Test Engineer | 🚀 Tech Enthusiast |
 
-- 🔭 I’m currently working at  [wipro]
+- 🔭 I’m currently working at  [Deloitte]
 - 🛠 Technologies I work with: Java, selenium, Rest Assured and TestNG
   
 
