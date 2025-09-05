@@ -3,7 +3,7 @@
 💻 Automation Test Engineer | 🚀 Tech Enthusiast | AI Agent Developer.
 
 - 🔭 I’m currently working at  [Deloitte]
-- 🛠 Technologies I work with: Java, selenium, Rest Assured. Java Agent Development kit (LLM) and TestNG
+- 🛠 Technologies I work with: Java, selenium, Rest API l, RESTAssured. Java Agent Development kit (LLM) and TestNG
   
 
 📫 Contact:  
