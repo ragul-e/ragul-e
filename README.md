@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Ragul Raj]!
+# 👋 Hello, I'm Ragulraj!
 
 💻 Automation Test Engineer | 🚀 Tech Enthusiast | AI Agent Developer.
 
