@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working at  [Deloitte]
 - 🛠 Technologies I work with: Java, selenium, Rest API l, RESTAssured. Java Agent Development kit (LLM) and TestNG
+- Test Automation Framework Dev Expert 
   
 
 📫 Contact:  
